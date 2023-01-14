@@ -4,6 +4,8 @@ author: Bjarne Stroustrup
 edition: 3rd (C++20)
 ---
 
+## Contents
+
 [1. Basics](1.Basics.md)
 
 [2. User-Defined Types](2.User-Defined%20Types.md)
